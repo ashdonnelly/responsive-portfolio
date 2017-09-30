@@ -229,6 +229,7 @@ h3,
 	height: auto;
 	margin-top: 10px;
 	margin-right: 25px;
+	opacity: 0.9;
 }
 
 /* contact page */
@@ -270,3 +271,5 @@ input[type=submit] {
 	background: #4aaaa5;
 	border: 0 none;
 }
+
+/* media queries */
