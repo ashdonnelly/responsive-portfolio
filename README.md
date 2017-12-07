@@ -1,6 +1,6 @@
-Week 2 Homework
+# Week 2 Homework
 
-Responsive Portfolio
+# Responsive Portfolio
 
 Demonstrate: 
 CSS; 
